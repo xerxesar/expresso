@@ -1,0 +1,886 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AA	tests/fixtures/module.fixture.js	/^    AA: 1,$/;"	P
+ACM	tests/fixtures/module.fixture.js	/^    ACM: 1,$/;"	P
+AD	tests/fixtures/module.fixture.js	/^    AD: 1,$/;"	P
+ADO	tests/fixtures/module.fixture.js	/^    ADO: 10,$/;"	P
+AppError	src/utils/AppError.js	/^class AppError extends Error {$/;"	C
+AutoFlag	src/utils/AutoFlag.util.js	/^  AutoFlag,$/;"	V
+AutoFlag	src/utils/AutoFlag.util.js	/^class AutoFlag {$/;"	C
+BOTFL	tests/fixtures/module.fixture.js	/^    BOTFL: 0,$/;"	P
+CANF	tests/fixtures/module.fixture.js	/^    CANF: 0,$/;"	P
+CAT	tests/fixtures/module.fixture.js	/^    CAT: 5,$/;"	P
+CC	tests/fixtures/module.fixture.js	/^    CC: 14,$/;"	P
+CCM	tests/fixtures/module.fixture.js	/^    CCM: 0,$/;"	P
+CD	tests/fixtures/module.fixture.js	/^    CD: 0,$/;"	P
+CFB	tests/fixtures/module.fixture.js	/^    CFB: 1,$/;"	P
+CFH	tests/fixtures/module.fixture.js	/^    CFH: 0,$/;"	P
+CLB	tests/fixtures/module.fixture.js	/^    CLB: 1,$/;"	P
+CLT	tests/fixtures/module.fixture.js	/^    CLT: 10,$/;"	P
+CR	tests/fixtures/module.fixture.js	/^    CR: 0,$/;"	P
+CST	tests/fixtures/module.fixture.js	/^    CST: 0,$/;"	P
+CT	tests/fixtures/module.fixture.js	/^    CT: 0,$/;"	P
+CodesDescriptionsMap	src/models/fault.model.js	/^faultSchema.CodesDescriptionsMap = {$/;"	P
+D	src/websockets/controllers/user.controller.js	/^        D: { OP: 'C', id: msgJSON.id, floor: msgJSON.floor },$/;"	P
+D	src/websockets/controllers/user.controller.js	/^        D: { OP: 'L', id: msgJSON.id },$/;"	P
+D	src/websockets/controllers/user.controller.js	/^        D: {$/;"	P
+DCLS	tests/fixtures/module.fixture.js	/^    DCLS: 0,$/;"	P
+DCT	tests/fixtures/module.fixture.js	/^    DCT: 16,$/;"	P
+DD	tests/fixtures/module.fixture.js	/^    DD: 0,$/;"	P
+DO	tests/fixtures/module.fixture.js	/^    DO: 0,$/;"	P
+DOLS	tests/fixtures/module.fixture.js	/^    DOLS: 0,$/;"	P
+DOT	tests/fixtures/module.fixture.js	/^    DOT: 6,$/;"	P
+DP	tests/fixtures/module.fixture.js	/^    DP: 1,$/;"	P
+DSD	tests/fixtures/module.fixture.js	/^    DSD: 15,$/;"	P
+ECPT	tests/fixtures/module.fixture.js	/^    ECPT: 1,$/;"	P
+ECSD	tests/fixtures/module.fixture.js	/^    ECSD: 3,$/;"	P
+ENF	tests/fixtures/module.fixture.js	/^    ENF: 0,$/;"	P
+ENO	tests/fixtures/module.fixture.js	/^    ENO: 0,$/;"	P
+ENS	tests/fixtures/module.fixture.js	/^    ENS: 0,$/;"	P
+ET	tests/fixtures/module.fixture.js	/^    ET: 0,$/;"	P
+ETT	tests/fixtures/module.fixture.js	/^    ETT: 0,$/;"	P
+EVAD	tests/fixtures/module.fixture.js	/^    EVAD: 0,$/;"	P
+EVARD	tests/fixtures/module.fixture.js	/^    EVARD: 20,$/;"	P
+EVASD	tests/fixtures/module.fixture.js	/^    EVASD: 15,$/;"	P
+EXF	tests/fixtures/module.fixture.js	/^    EXF: 0,$/;"	P
+FACD	tests/fixtures/module.fixture.js	/^    FACD: 0,$/;"	P
+FAULT_SETTING	tests/fixtures/module.fixture.js	/^  FAULT_SETTING: {$/;"	P
+FD	tests/fixtures/module.fixture.js	/^    FD: 1,$/;"	P
+FIXED_INPUTS	tests/fixtures/module.fixture.js	/^  FIXED_INPUTS: { PH2I: 0, PH1I: 0, FLI: 0, DOI: 0, CLSI: 0, PH3I: 0, OLSI: 0, CNCLI: 1, DCI: 1, OLI: 0, LFI: 1 },$/;"	P
+FLF	tests/fixtures/module.fixture.js	/^    FLF: 1,$/;"	P
+FLOOR_SETTINGS	tests/fixtures/module.fixture.js	/^  FLOOR_SETTINGS: [$/;"	P
+FN	tests/fixtures/module.fixture.js	/^    FN: 18,$/;"	P
+FPF	tests/fixtures/module.fixture.js	/^    FPF: 0,$/;"	P
+FRIOF	tests/fixtures/module.fixture.js	/^    FRIOF: 0,$/;"	P
+FRION	tests/fixtures/module.fixture.js	/^    FRION: 0,$/;"	P
+FUSACCD	tests/fixtures/module.fixture.js	/^    FUSACCD: 1006,$/;"	P
+FUSBO	tests/fixtures/module.fixture.js	/^    FUSBO: 4,$/;"	P
+FUSDECCD	tests/fixtures/module.fixture.js	/^    FUSDECCD: 503,$/;"	P
+FZ	tests/fixtures/module.fixture.js	/^    FZ: 127,$/;"	P
+HCM	tests/fixtures/module.fixture.js	/^    HCM: 2,$/;"	P
+HVLTBT	tests/fixtures/module.fixture.js	/^    HVLTBT: 3,$/;"	P
+INSBO	tests/fixtures/module.fixture.js	/^    INSBO: 2,$/;"	P
+LD	tests/fixtures/module.fixture.js	/^    LD: 13,$/;"	P
+LDS	tests/fixtures/module.fixture.js	/^    LDS: 0,$/;"	P
+LEARN_SETTING	tests/fixtures/module.fixture.js	/^  LEARN_SETTING: { FDTD: 1, GR: 0, CM: 0, EF: 7, S: 1, EP: 2048, LB: 0, FUTU: 1, LSV: 5, MT: 1, SD: 500 },$/;"	P
+LESBO	tests/fixtures/module.fixture.js	/^    LESBO: 1,$/;"	P
+LISD	tests/fixtures/module.fixture.js	/^    LISD: 15,$/;"	P
+LLV	tests/fixtures/module.fixture.js	/^    LLV: 0,$/;"	P
+LMD	tests/fixtures/module.fixture.js	/^    LMD: 1,$/;"	P
+LOSBO	tests/fixtures/module.fixture.js	/^    LOSBO: 1,$/;"	P
+MAIN_SETTING	tests/fixtures/module.fixture.js	/^  MAIN_SETTING: {$/;"	P
+MB	tests/fixtures/module.fixture.js	/^    MB: 1,$/;"	P
+MONOF	tests/fixtures/module.fixture.js	/^    MONOF: 0,$/;"	P
+MONON	tests/fixtures/module.fixture.js	/^    MONON: 0,$/;"	P
+Module	src/websockets/controllers/module.controller.js	/^class Module {$/;"	C
+OC	tests/fixtures/module.fixture.js	/^    OC: 0,$/;"	P
+OHF	tests/fixtures/module.fixture.js	/^    OHF: 1,$/;"	P
+OLF	tests/fixtures/module.fixture.js	/^    OLF: 1,$/;"	P
+PC	tests/fixtures/module.fixture.js	/^    PC: 0,$/;"	P
+PF	tests/fixtures/module.fixture.js	/^    PF: 0,$/;"	P
+POF	tests/fixtures/module.fixture.js	/^    POF: 0,$/;"	P
+POO	tests/fixtures/module.fixture.js	/^    POO: 0,$/;"	P
+PRI1	tests/fixtures/module.fixture.js	/^    PRI1: 0,$/;"	P
+PRI10	tests/fixtures/module.fixture.js	/^    PRI10: 3,$/;"	P
+PRI2	tests/fixtures/module.fixture.js	/^    PRI2: 0,$/;"	P
+PRI3	tests/fixtures/module.fixture.js	/^    PRI3: 0,$/;"	P
+PRI4	tests/fixtures/module.fixture.js	/^    PRI4: 0,$/;"	P
+PRI5	tests/fixtures/module.fixture.js	/^    PRI5: 0,$/;"	P
+PRI6	tests/fixtures/module.fixture.js	/^    PRI6: 4,$/;"	P
+PRI7	tests/fixtures/module.fixture.js	/^    PRI7: 5,$/;"	P
+PRI8	tests/fixtures/module.fixture.js	/^    PRI8: 2,$/;"	P
+PRI9	tests/fixtures/module.fixture.js	/^    PRI9: 1,$/;"	P
+PRIB1	tests/fixtures/module.fixture.js	/^    PRIB1: 1,$/;"	P
+PRIB10	tests/fixtures/module.fixture.js	/^    PRIB10: 0,$/;"	P
+PRIB2	tests/fixtures/module.fixture.js	/^    PRIB2: 0,$/;"	P
+PRIB3	tests/fixtures/module.fixture.js	/^    PRIB3: 1,$/;"	P
+PRIB4	tests/fixtures/module.fixture.js	/^    PRIB4: 1,$/;"	P
+PRIB5	tests/fixtures/module.fixture.js	/^    PRIB5: 1,$/;"	P
+PRIB6	tests/fixtures/module.fixture.js	/^    PRIB6: 0,$/;"	P
+PRIB7	tests/fixtures/module.fixture.js	/^    PRIB7: 0,$/;"	P
+PRIB8	tests/fixtures/module.fixture.js	/^    PRIB8: 1,$/;"	P
+PRIB9	tests/fixtures/module.fixture.js	/^    PRIB9: 1,$/;"	P
+PRO1	tests/fixtures/module.fixture.js	/^    PRO1: 33,$/;"	P
+PRO10	tests/fixtures/module.fixture.js	/^    PRO10: 0,$/;"	P
+PRO11	tests/fixtures/module.fixture.js	/^    PRO11: 127,$/;"	P
+PRO12	tests/fixtures/module.fixture.js	/^    PRO12: 0,$/;"	P
+PRO13	tests/fixtures/module.fixture.js	/^    PRO13: 0,$/;"	P
+PRO14	tests/fixtures/module.fixture.js	/^    PRO14: 0,$/;"	P
+PRO15	tests/fixtures/module.fixture.js	/^    PRO15: 0,$/;"	P
+PRO16	tests/fixtures/module.fixture.js	/^    PRO16: 0,$/;"	P
+PRO17	tests/fixtures/module.fixture.js	/^    PRO17: 0,$/;"	P
+PRO2	tests/fixtures/module.fixture.js	/^    PRO2: 34,$/;"	P
+PRO3	tests/fixtures/module.fixture.js	/^    PRO3: 0,$/;"	P
+PRO4	tests/fixtures/module.fixture.js	/^    PRO4: 0,$/;"	P
+PRO5	tests/fixtures/module.fixture.js	/^    PRO5: 0,$/;"	P
+PRO6	tests/fixtures/module.fixture.js	/^    PRO6: 0,$/;"	P
+PRO7	tests/fixtures/module.fixture.js	/^    PRO7: 0,$/;"	P
+PRO8	tests/fixtures/module.fixture.js	/^    PRO8: 0,$/;"	P
+PRO9	tests/fixtures/module.fixture.js	/^    PRO9: 0,$/;"	P
+PROB1	tests/fixtures/module.fixture.js	/^    PROB1: 1,$/;"	P
+PROB10	tests/fixtures/module.fixture.js	/^    PROB10: 0,$/;"	P
+PROB11	tests/fixtures/module.fixture.js	/^    PROB11: 0,$/;"	P
+PROB12	tests/fixtures/module.fixture.js	/^    PROB12: 0,$/;"	P
+PROB13	tests/fixtures/module.fixture.js	/^    PROB13: 0,$/;"	P
+PROB14	tests/fixtures/module.fixture.js	/^    PROB14: 0,$/;"	P
+PROB15	tests/fixtures/module.fixture.js	/^    PROB15: 0,$/;"	P
+PROB16	tests/fixtures/module.fixture.js	/^    PROB16: 0,$/;"	P
+PROB17	tests/fixtures/module.fixture.js	/^    PROB17: 0,$/;"	P
+PROB2	tests/fixtures/module.fixture.js	/^    PROB2: 0,$/;"	P
+PROB3	tests/fixtures/module.fixture.js	/^    PROB3: 0,$/;"	P
+PROB4	tests/fixtures/module.fixture.js	/^    PROB4: 0,$/;"	P
+PROB5	tests/fixtures/module.fixture.js	/^    PROB5: 0,$/;"	P
+PROB6	tests/fixtures/module.fixture.js	/^    PROB6: 0,$/;"	P
+PROB7	tests/fixtures/module.fixture.js	/^    PROB7: 0,$/;"	P
+PROB8	tests/fixtures/module.fixture.js	/^    PROB8: 0,$/;"	P
+PROB9	tests/fixtures/module.fixture.js	/^    PROB9: 0,$/;"	P
+PROG_INPUTS	tests/fixtures/module.fixture.js	/^  PROG_INPUTS: {$/;"	P
+PROG_OUTPUTS	tests/fixtures/module.fixture.js	/^  PROG_OUTPUTS: {$/;"	P
+PS	tests/fixtures/module.fixture.js	/^    PS: 0,$/;"	P
+PSGT	tests/fixtures/module.fixture.js	/^    PSGT: 0,$/;"	P
+PT	tests/fixtures/module.fixture.js	/^    PT: 20,$/;"	P
+SATOF	tests/fixtures/module.fixture.js	/^    SATOF: 0,$/;"	P
+SATON	tests/fixtures/module.fixture.js	/^    SATON: 0,$/;"	P
+SB	tests/fixtures/module.fixture.js	/^    SB: 0,$/;"	P
+SCD	tests/fixtures/module.fixture.js	/^    SCD: 0,$/;"	P
+SPEED_SETTING	tests/fixtures/module.fixture.js	/^  SPEED_SETTING: {$/;"	P
+SSHConnectionResponse	src/websockets/controllers/user.controller.js	/^      SSHConnectionResponse: response,$/;"	P
+ST	tests/fixtures/module.fixture.js	/^    ST: 2,$/;"	P
+SUNOF	tests/fixtures/module.fixture.js	/^    SUNOF: 0,$/;"	P
+SUNON	tests/fixtures/module.fixture.js	/^    SUNON: 0,$/;"	P
+THUOF	tests/fixtures/module.fixture.js	/^    THUOF: 0,$/;"	P
+THUON	tests/fixtures/module.fixture.js	/^    THUON: 0,$/;"	P
+TIME_SETTING	tests/fixtures/module.fixture.js	/^  TIME_SETTING: {$/;"	P
+TODO	src/utils/authVerifyCallback.util.js	/^  \/\/ TODO: remove next line to activate authorization$/;"	T
+TODO	src/websockets/controllers/user.controller.js	/^      \/\/ TODO: think how to tell user that the module is online$/;"	T
+TODO	src/websockets/controllers/user.controller.js	/^    \/\/ TODO: op === 'C' || op === 'L' needs `control access` role$/;"	T
+TODO	tests/integration/userAndModuleWebsocket.test.js	/^    \/\/ TODO: server should skip some fault codes$/;"	T
+TT	tests/fixtures/module.fixture.js	/^    TT: 140,$/;"	P
+TTO	tests/fixtures/module.fixture.js	/^    TTO: 1,$/;"	P
+TUEOF	tests/fixtures/module.fixture.js	/^    TUEOF: 0,$/;"	P
+TUEON	tests/fixtures/module.fixture.js	/^    TUEON: 0,$/;"	P
+US	tests/fixtures/module.fixture.js	/^    US: 7,$/;"	P
+USD	tests/fixtures/module.fixture.js	/^    USD: 15,$/;"	P
+User	src/websockets/controllers/user.controller.js	/^class User {$/;"	C
+V1ACCD	tests/fixtures/module.fixture.js	/^    V1ACCD: 760,$/;"	P
+V1BO	tests/fixtures/module.fixture.js	/^    V1BO: 5,$/;"	P
+V1DECCD	tests/fixtures/module.fixture.js	/^    V1DECCD: 380,$/;"	P
+V2ACCD	tests/fixtures/module.fixture.js	/^    V2ACCD: 484,$/;"	P
+V2BO	tests/fixtures/module.fixture.js	/^    V2BO: 6,$/;"	P
+V2DECCD	tests/fixtures/module.fixture.js	/^    V2DECCD: 242,$/;"	P
+V3ACCD	tests/fixtures/module.fixture.js	/^    V3ACCD: 224,$/;"	P
+V3BO	tests/fixtures/module.fixture.js	/^    V3BO: 7,$/;"	P
+V3DECCD	tests/fixtures/module.fixture.js	/^    V3DECCD: 112,$/;"	P
+V4ACCD	tests/fixtures/module.fixture.js	/^    V4ACCD: 100,$/;"	P
+V4BO	tests/fixtures/module.fixture.js	/^    V4BO: 7,$/;"	P
+V4DECCD	tests/fixtures/module.fixture.js	/^    V4DECCD: 100,$/;"	P
+WENOF	tests/fixtures/module.fixture.js	/^    WENOF: 0,$/;"	P
+WENON	tests/fixtures/module.fixture.js	/^    WENON: 0,$/;"	P
+WHLC	tests/integration/userAndModuleWebsocket.test.js	/^        WHLC: 1,$/;"	P
+WebsocketConnectionsManager	src/utils/ws-connections-manager.util.js	/^  WebsocketConnectionsManager,$/;"	V
+WebsocketConnectionsManager	src/utils/ws-connections-manager.util.js	/^class WebsocketConnectionsManager {$/;"	C
+_flagActivated	src/websockets/controllers/user.controller.js	/^    const _flagActivated = this.tmp.waitingForSSHConnection.setTrue(() => {$/;"	F
+_userBody	src/services/user.service.js	/^  const _userBody = {};$/;"	O
+access	src/services/auth.service.js	/^    access: {$/;"	P
+access	tests/integration/auth.test.js	/^        access: { token: expect.anything(), expires: expect.anything() },$/;"	P
+address	src/models/complex.model.js	/^    address: {$/;"	P
+admin	tests/fixtures/module.fixture.js	/^const { userOne, userTwo, admin } = require('.\/user.fixture');$/;"	V
+admin	tests/fixtures/token.fixture.js	/^const { userOne, admin } = require('.\/user.fixture');$/;"	V
+admin	tests/fixtures/user.fixture.js	/^  admin,$/;"	V
+admin	tests/fixtures/user.fixture.js	/^const admin = {$/;"	O
+admin	tests/integration/auth.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+admin	tests/integration/complex.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+admin	tests/integration/module.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+admin	tests/integration/user.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+admin	tests/integration/userAndModuleWebsocket.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+adminAccessPassword	src/models/user.model.js	/^    adminAccessPassword: {$/;"	P
+adminAccessToken	tests/fixtures/token.fixture.js	/^  adminAccessToken,$/;"	V
+adminAccessToken	tests/integration/auth.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+adminAccessToken	tests/integration/complex.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+adminAccessToken	tests/integration/module.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+adminAccessToken	tests/integration/user.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+adminAccessToken	tests/integration/userAndModuleWebsocket.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+adminUser	src/config/insertDefaultDBRows.js	/^    const adminUser = new User({$/;"	V
+allSettingsAccessPassword	src/models/user.model.js	/^    allSettingsAccessPassword: {$/;"	P
+apis	src/docServer.js	/^    apis: [path.resolve(__dirname, 'routes\/v1\/*.js')],$/;"	P
+ask	tests/integration/userAndModuleWebsocket.test.js	/^const { waitToClose, waitForMessage, waitToOpen, ask } = require('..\/utils\/asyncWebsocketPatterns');$/;"	V
+ask	tests/utils/asyncWebsocketPatterns.js	/^  ask,$/;"	V
+ask	tests/utils/asyncWebsocketPatterns.js	/^function ask(ws, msg) {$/;"	F
+auth	src/config/config.js	/^      auth: {$/;"	P
+auth	src/middlewares/auth.js	/^const auth = (...requiredRights) => async (req, res, next) => {$/;"	F
+authController	src/routes/v1/auth.route.js	/^const { authController } = require('..\/..\/controllers');$/;"	V
+authLimiter	src/app.js	/^const { authLimiter } = require('.\/middlewares\/rateLimiter');$/;"	V
+authLimiter	src/middlewares/rateLimiter.js	/^  authLimiter,$/;"	V
+authService	src/controllers/auth.controller.js	/^const { authService, userService, emailService } = require('..\/services');$/;"	V
+authValidation	src/routes/v1/auth.route.js	/^const { authValidation } = require('..\/..\/validations');$/;"	V
+blacklisted	src/models/token.model.js	/^    blacklisted: {$/;"	P
+blacklisted	src/services/token.service.js	/^    blacklisted,$/;"	V
+boardSettings	tests/integration/userAndModuleWebsocket.test.js	/^      const boardSettings = {$/;"	O
+bottomFloor	src/models/elevator.model.js	/^    bottomFloor: {$/;"	P
+car_call_disable	tests/integration/userAndModuleWebsocket.test.js	/^        car_call_disable: 1,$/;"	P
+catchAsync	src/utils/catchAsync.js	/^const catchAsync = fn => (req, res, next) => {$/;"	F
+checkDuplicateCode	src/services/module.service.js	/^const checkDuplicateCode = async (code, excludeModuleId) => {$/;"	F
+checkDuplicateEmail	src/services/user.service.js	/^const checkDuplicateEmail = async (email, excludeUserId) => {$/;"	F
+checkDuplicateUsername	src/services/user.service.js	/^const checkDuplicateUsername = async (username, excludeUserId) => {$/;"	F
+checkPassword	src/services/auth.service.js	/^const checkPassword = async (password, correctPassword) => {$/;"	F
+close	src/utils/ws-connections-manager.util.js	/^  connectionHandler.close = function() {$/;"	M
+code	src/middlewares/error.js	/^    code: statusCode,$/;"	P
+code	src/models/fault.model.js	/^    code: {$/;"	P
+code	src/models/module.model.js	/^    code: {$/;"	P
+code	tests/fixtures/fault.fixture.js	/^  code: 1,$/;"	P
+code	tests/fixtures/fault.fixture.js	/^  code: 3,$/;"	P
+complex	src/models/module.model.js	/^    complex: {$/;"	P
+complexController	src/routes/v1/complex.route.js	/^const { complexController } = require('..\/..\/controllers');$/;"	V
+complexOne	tests/fixtures/complex.fixture.js	/^  complexOne,$/;"	V
+complexOne	tests/fixtures/complex.fixture.js	/^const complexOne = {$/;"	O
+complexOne	tests/fixtures/elevator.fixture.js	/^const { complexOne, complexTwo } = require('.\/complex.fixture');$/;"	V
+complexOne	tests/fixtures/module.fixture.js	/^const { complexOne, complexTwo } = require('.\/complex.fixture');$/;"	V
+complexOne	tests/integration/complex.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+complexOne	tests/integration/module.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+complexOne	tests/integration/userAndModuleWebsocket.test.js	/^const { complexOne, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+complexService	src/controllers/complex.controller.js	/^const { complexService } = require('..\/services');$/;"	V
+complexTwo	tests/fixtures/complex.fixture.js	/^  complexTwo,$/;"	V
+complexTwo	tests/fixtures/complex.fixture.js	/^const complexTwo = {$/;"	O
+complexTwo	tests/fixtures/elevator.fixture.js	/^const { complexOne, complexTwo } = require('.\/complex.fixture');$/;"	V
+complexTwo	tests/fixtures/module.fixture.js	/^const { complexOne, complexTwo } = require('.\/complex.fixture');$/;"	V
+complexTwo	tests/integration/complex.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+complexTwo	tests/integration/module.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+complexValidation	src/routes/v1/complex.route.js	/^const { complexValidation } = require('..\/..\/validations');$/;"	V
+components	src/docServer.js	/^    components: {},$/;"	P
+con	tests/integration/userAndModuleWebsocket.test.js	/^      const con = new WebSocket('ws:\/\/localhost:3000\/EMS\/userdatahandler');$/;"	V
+connectionHandler	src/utils/ws-connections-manager.util.js	/^  const connectionHandler = new ConnectionControllerClass(ws, req, connectionsManagerInstance);$/;"	V
+connections	src/utils/ws-connections-manager.util.js	/^      const connections = [];$/;"	A
+constructor	src/utils/AppError.js	/^  constructor(statusCode, message, isOperational = true, stack = '') {$/;"	M
+constructor	src/utils/AutoFlag.util.js	/^  constructor(value, timeout) {$/;"	M
+constructor	src/utils/ws-connections-manager.util.js	/^  constructor() {$/;"	M
+constructor	src/websockets/controllers/module.controller.js	/^  constructor(ws, req, connectionsManager) {$/;"	M
+constructor	src/websockets/controllers/user.controller.js	/^  constructor(ws, req, connectionsManager) {$/;"	M
+count	src/models/inCallCount.model.js	/^    count: {$/;"	P
+count	src/utils/ws-connections-manager.util.js	/^      let count = 0;$/;"	V
+count	src/websockets/controllers/module.controller.js	/^        count,$/;"	V
+count	src/websockets/controllers/module.controller.js	/^        count: 0,$/;"	P
+count	tests/fixtures/inCallCount.fixture.js	/^  count: 12,$/;"	P
+count	tests/fixtures/inCallCount.fixture.js	/^  count: 5,$/;"	P
+coveragePathIgnorePatterns	jest.config.js	/^  coveragePathIgnorePatterns: ['node_modules', 'src\/config', 'src\/app.js', 'tests'],$/;"	P
+coverageReporters	jest.config.js	/^  coverageReporters: ['text', 'lcov', 'clover', 'html'],$/;"	P
+createComplex	src/controllers/complex.controller.js	/^  createComplex,$/;"	V
+createComplex	src/controllers/complex.controller.js	/^const createComplex = catchAsync(async (req, res) => {$/;"	F
+createComplex	src/services/complex.service.js	/^  createComplex,$/;"	V
+createComplex	src/services/complex.service.js	/^const createComplex = async complexBody => {$/;"	F
+createComplex	src/validations/complex.validation.js	/^  createComplex,$/;"	V
+createComplex	src/validations/complex.validation.js	/^const createComplex = {$/;"	O
+createModule	src/controllers/module.controller.js	/^  createModule,$/;"	V
+createModule	src/controllers/module.controller.js	/^const createModule = catchAsync(async (req, res) => {$/;"	F
+createModule	src/services/module.service.js	/^  createModule,$/;"	V
+createModule	src/services/module.service.js	/^const createModule = async moduleBody => {$/;"	F
+createModule	src/validations/module.validation.js	/^  createModule,$/;"	V
+createModule	src/validations/module.validation.js	/^const createModule = {$/;"	O
+createUser	src/controllers/user.controller.js	/^  createUser,$/;"	V
+createUser	src/controllers/user.controller.js	/^const createUser = catchAsync(async (req, res) => {$/;"	F
+createUser	src/services/user.service.js	/^  createUser,$/;"	V
+createUser	src/services/user.service.js	/^const createUser = async userBody => {$/;"	F
+createUser	src/validations/user.validation.js	/^  createUser,$/;"	V
+createUser	src/validations/user.validation.js	/^const createUser = {$/;"	O
+createdAt	src/services/module.service.js	/^    filter.createdAt = {};$/;"	P
+d	src/websockets/controllers/module.controller.js	/^    const d = new Date();$/;"	V
+d1	tests/fixtures/inCallCount.fixture.js	/^const d1 = new Date();$/;"	V
+d2	tests/fixtures/inCallCount.fixture.js	/^const d2 = new Date();$/;"	V
+date	src/models/inCallCount.model.js	/^    date: {$/;"	P
+date	src/services/module.service.js	/^    filter.date = {};$/;"	P
+date	tests/fixtures/inCallCount.fixture.js	/^  date: d1,$/;"	P
+date	tests/fixtures/inCallCount.fixture.js	/^  date: d2,$/;"	P
+default	src/models/elevator.model.js	/^      default: 0,$/;"	P
+default	src/models/module.model.js	/^      default: false,$/;"	P
+default	src/models/module.model.js	/^      default: null,$/;"	P
+default	src/models/token.model.js	/^      default: false,$/;"	P
+default	src/models/user.model.js	/^      default: false,$/;"	P
+deleteComplex	src/controllers/complex.controller.js	/^  deleteComplex,$/;"	V
+deleteComplex	src/controllers/complex.controller.js	/^const deleteComplex = catchAsync(async (req, res) => {$/;"	F
+deleteComplex	src/services/complex.service.js	/^  deleteComplex,$/;"	V
+deleteComplex	src/services/complex.service.js	/^const deleteComplex = async complexId => {$/;"	F
+deleteComplex	src/validations/complex.validation.js	/^  deleteComplex,$/;"	V
+deleteComplex	src/validations/complex.validation.js	/^const deleteComplex = {$/;"	O
+deleteModule	src/controllers/module.controller.js	/^  deleteModule,$/;"	V
+deleteModule	src/controllers/module.controller.js	/^const deleteModule = catchAsync(async (req, res) => {$/;"	F
+deleteModule	src/services/module.service.js	/^  deleteModule,$/;"	V
+deleteModule	src/services/module.service.js	/^const deleteModule = async moduleId => {$/;"	F
+deleteModule	src/validations/module.validation.js	/^  deleteModule,$/;"	V
+deleteModule	src/validations/module.validation.js	/^const deleteModule = {$/;"	O
+deleteUser	src/controllers/user.controller.js	/^  deleteUser,$/;"	V
+deleteUser	src/controllers/user.controller.js	/^const deleteUser = catchAsync(async (req, res) => {$/;"	F
+deleteUser	src/services/user.service.js	/^  deleteUser,$/;"	V
+deleteUser	src/services/user.service.js	/^const deleteUser = async userId => {$/;"	F
+deleteUser	src/validations/user.validation.js	/^  deleteUser,$/;"	V
+deleteUser	src/validations/user.validation.js	/^const deleteUser = {$/;"	O
+district	src/models/module.model.js	/^    district: {$/;"	P
+docServer	src/docServer.js	/^function docServer(app) {$/;"	F
+elevator	src/websockets/controllers/module.controller.js	/^        const elevator = new ElevatorModel({$/;"	V
+elevator	src/websockets/controllers/module.controller.js	/^    let elevator = module.elevators.find(e => e.systemType === settings.MAIN_SETTING.ST);$/;"	F
+elevatorOne	tests/fixtures/elevator.fixture.js	/^  elevatorOne,$/;"	V
+elevatorOne	tests/fixtures/elevator.fixture.js	/^const elevatorOne = {$/;"	O
+elevatorOne	tests/fixtures/module.fixture.js	/^const { elevatorOne, elevatorTwo } = require('.\/elevator.fixture');$/;"	V
+elevatorOne	tests/integration/module.test.js	/^const { elevatorOne, elevatorTwo, insertElevators } = require('..\/fixtures\/elevator.fixture');$/;"	V
+elevatorSystemType	src/models/fault.model.js	/^    elevatorSystemType: {$/;"	P
+elevatorSystemType	src/models/inCallCount.model.js	/^    elevatorSystemType: {$/;"	P
+elevatorSystemType	src/websockets/controllers/module.controller.js	/^        elevatorSystemType: elevatorId,$/;"	P
+elevatorSystemType	tests/fixtures/fault.fixture.js	/^  elevatorSystemType: 1,$/;"	P
+elevatorSystemType	tests/fixtures/fault.fixture.js	/^  elevatorSystemType: 2,$/;"	P
+elevatorSystemType	tests/fixtures/inCallCount.fixture.js	/^  elevatorSystemType: 1,$/;"	P
+elevatorSystemType	tests/fixtures/inCallCount.fixture.js	/^  elevatorSystemType: 2,$/;"	P
+elevatorTwo	tests/fixtures/elevator.fixture.js	/^  elevatorTwo,$/;"	V
+elevatorTwo	tests/fixtures/elevator.fixture.js	/^const elevatorTwo = {$/;"	O
+elevatorTwo	tests/fixtures/module.fixture.js	/^const { elevatorOne, elevatorTwo } = require('.\/elevator.fixture');$/;"	V
+elevatorTwo	tests/integration/module.test.js	/^const { elevatorOne, elevatorTwo, insertElevators } = require('..\/fixtures\/elevator.fixture');$/;"	V
+elevators	src/models/module.model.js	/^    elevators: [$/;"	P
+elevators	tests/fixtures/module.fixture.js	/^  elevators: [elevatorOne._id, elevatorTwo._id],$/;"	P
+elevators	tests/integration/module.test.js	/^        elevators: [],$/;"	P
+elevators	tests/integration/userAndModuleWebsocket.test.js	/^            elevators: [$/;"	P
+elevators	tests/integration/userAndModuleWebsocket.test.js	/^          elevators: [$/;"	P
+email	src/config/config.js	/^  email: {$/;"	P
+email	src/models/user.model.js	/^    email: {$/;"	P
+emailService	src/controllers/auth.controller.js	/^const { authService, userService, emailService } = require('..\/services');$/;"	V
+emailService	tests/integration/auth.test.js	/^const { tokenService, emailService } = require('..\/..\/src\/services');$/;"	V
+emailService	tests/integration/userAndModuleWebsocket.test.js	/^const { tokenService, emailService } = require('..\/..\/src\/services');$/;"	V
+enum	src/models/token.model.js	/^      enum: ['refresh', 'resetPassword'],$/;"	P
+enum	src/models/user.model.js	/^      enum: roles,$/;"	P
+enumerateErrorFormat	src/config/logger.js	/^const enumerateErrorFormat = winston.format(info => {$/;"	F
+error	src/middlewares/validate.js	/^  const { value, error } = Joi.compile(validSchema)$/;"	V
+errorConverter	src/app.js	/^const { errorConverter, errorHandler } = require('.\/middlewares\/error');$/;"	V
+errorConverter	src/middlewares/error.js	/^  errorConverter,$/;"	V
+errorConverter	src/middlewares/error.js	/^const errorConverter = (err, req, res, next) => {$/;"	F
+errorHandler	src/app.js	/^const { errorConverter, errorHandler } = require('.\/middlewares\/error');$/;"	V
+errorHandler	src/config/morgan.js	/^  errorHandler,$/;"	V
+errorHandler	src/middlewares/error.js	/^  errorHandler,$/;"	V
+errorHandler	src/middlewares/error.js	/^const errorHandler = (err, req, res, next) => {$/;"	F
+errorMessage	src/middlewares/validate.js	/^    const errorMessage = error.details.map(details => details.message).join(', ');$/;"	F
+exitHandler	src/index.js	/^const exitHandler = () => {$/;"	F
+expires	src/models/token.model.js	/^    expires: {$/;"	P
+explorer	src/docServer.js	/^    explorer: true,$/;"	P
+exports	jest.config.js	/^module.exports = {$/;"	P
+exports	src/config/config.js	/^module.exports = {$/;"	P
+exports	src/config/insertDefaultDBRows.js	/^module.exports = {$/;"	P
+exports	src/config/morgan.js	/^module.exports = {$/;"	P
+exports	src/config/passport.js	/^module.exports = {$/;"	P
+exports	src/config/roles.js	/^module.exports = {$/;"	P
+exports	src/controllers/auth.controller.js	/^module.exports = {$/;"	P
+exports	src/controllers/complex.controller.js	/^module.exports = {$/;"	P
+exports	src/controllers/module.controller.js	/^module.exports = {$/;"	P
+exports	src/controllers/user.controller.js	/^module.exports = {$/;"	P
+exports	src/middlewares/error.js	/^module.exports = {$/;"	P
+exports	src/middlewares/rateLimiter.js	/^module.exports = {$/;"	P
+exports	src/services/auth.service.js	/^module.exports = {$/;"	P
+exports	src/services/complex.service.js	/^module.exports = {$/;"	P
+exports	src/services/email.service.js	/^module.exports = {$/;"	P
+exports	src/services/module.service.js	/^module.exports = {$/;"	P
+exports	src/services/token.service.js	/^module.exports = {$/;"	P
+exports	src/services/user.service.js	/^module.exports = {$/;"	P
+exports	src/utils/AutoFlag.util.js	/^module.exports = {$/;"	P
+exports	src/utils/service.util.js	/^module.exports = {$/;"	P
+exports	src/utils/toJSON.util.js	/^module.exports = {$/;"	P
+exports	src/utils/ws-connections-manager.util.js	/^module.exports = {$/;"	P
+exports	src/validations/auth.validation.js	/^module.exports = {$/;"	P
+exports	src/validations/complex.validation.js	/^module.exports = {$/;"	P
+exports	src/validations/custom.validation.js	/^module.exports = {$/;"	P
+exports	src/validations/module.validation.js	/^module.exports = {$/;"	P
+exports	src/validations/user.validation.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/complex.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/elevator.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/fault.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/inCallCount.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/module.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/token.fixture.js	/^module.exports = {$/;"	P
+exports	tests/fixtures/user.fixture.js	/^module.exports = {$/;"	P
+exports	tests/utils/asyncWebsocketPatterns.js	/^module.exports = {$/;"	P
+f	src/utils/AutoFlag.util.js	/^  let f = new AutoFlag(false, 1000);$/;"	V
+fault	tests/integration/userAndModuleWebsocket.test.js	/^                fault: 12,$/;"	P
+fault	tests/integration/userAndModuleWebsocket.test.js	/^              fault: 0,$/;"	P
+fault	tests/integration/userAndModuleWebsocket.test.js	/^              fault: 12,$/;"	P
+faultOne	tests/fixtures/fault.fixture.js	/^  faultOne,$/;"	V
+faultOne	tests/fixtures/fault.fixture.js	/^const faultOne = {$/;"	O
+faultOne	tests/integration/module.test.js	/^const { faultOne, faultTwo, insertFaults } = require('..\/fixtures\/fault.fixture');$/;"	V
+faultTwo	tests/fixtures/fault.fixture.js	/^  faultTwo,$/;"	V
+faultTwo	tests/fixtures/fault.fixture.js	/^const faultTwo = {$/;"	O
+faultTwo	tests/integration/module.test.js	/^const { faultOne, faultTwo, insertFaults } = require('..\/fixtures\/fault.fixture');$/;"	V
+fault_11_count_per_elevator	src/websockets/controllers/module.controller.js	/^      fault_11_count_per_elevator: {},$/;"	P
+fault_59_flag_per_elevator	src/websockets/controllers/module.controller.js	/^      fault_59_flag_per_elevator: {},$/;"	P
+filter	src/websockets/controllers/user.controller.js	/^    const filter = { code: moduleCode };$/;"	O
+filterElevatorFault	src/websockets/controllers/module.controller.js	/^  async filterElevatorFault(elevatorFault, elevatorMode, elevatorId) {$/;"	M
+floor	src/models/fault.model.js	/^    floor: {$/;"	P
+floor	tests/fixtures/fault.fixture.js	/^  floor: 1,$/;"	P
+floor	tests/fixtures/fault.fixture.js	/^  floor: 2,$/;"	P
+floorNames	src/models/module.model.js	/^    floorNames: [$/;"	P
+floorNames	src/websockets/controllers/module.controller.js	/^    const floorNames = [];$/;"	A
+floorNames	tests/integration/module.test.js	/^        floorNames: [],$/;"	P
+floorNumber	src/models/elevator.model.js	/^    floorNumber: {$/;"	P
+forgotPassword	src/controllers/auth.controller.js	/^  forgotPassword,$/;"	V
+forgotPassword	src/controllers/auth.controller.js	/^const forgotPassword = catchAsync(async (req, res) => {$/;"	F
+forgotPassword	src/validations/auth.validation.js	/^  forgotPassword,$/;"	V
+forgotPassword	src/validations/auth.validation.js	/^const forgotPassword = {$/;"	O
+generateAuthTokens	src/services/auth.service.js	/^  generateAuthTokens,$/;"	V
+generateAuthTokens	src/services/auth.service.js	/^const generateAuthTokens = async userId => {$/;"	F
+generateResetPasswordToken	src/services/auth.service.js	/^  generateResetPasswordToken,$/;"	V
+generateResetPasswordToken	src/services/auth.service.js	/^const generateResetPasswordToken = async email => {$/;"	F
+generateSwaggerSpec	src/docServer.js	/^function generateSwaggerSpec() {$/;"	F
+generateToken	src/services/token.service.js	/^  generateToken,$/;"	V
+generateToken	src/services/token.service.js	/^const generateToken = (userId, expires, secret = config.jwt.secret) => {$/;"	F
+getComplex	src/controllers/complex.controller.js	/^  getComplex,$/;"	V
+getComplex	src/controllers/complex.controller.js	/^const getComplex = catchAsync(async (req, res) => {$/;"	F
+getComplex	src/validations/complex.validation.js	/^  getComplex,$/;"	V
+getComplex	src/validations/complex.validation.js	/^const getComplex = {$/;"	O
+getComplexById	src/services/complex.service.js	/^  getComplexById,$/;"	V
+getComplexById	src/services/complex.service.js	/^const getComplexById = async complexId => {$/;"	F
+getComplexes	src/controllers/complex.controller.js	/^  getComplexes,$/;"	V
+getComplexes	src/controllers/complex.controller.js	/^const getComplexes = catchAsync(async (req, res) => {$/;"	F
+getComplexes	src/services/complex.service.js	/^  getComplexes,$/;"	V
+getComplexes	src/services/complex.service.js	/^const getComplexes = async query => {$/;"	F
+getComplexes	src/validations/complex.validation.js	/^  getComplexes,$/;"	V
+getComplexes	src/validations/complex.validation.js	/^const getComplexes = {$/;"	O
+getElevatorInCallsCount	src/websockets/controllers/module.controller.js	/^  async getElevatorInCallsCount(elevatorLiftStatus, elevatorId) {$/;"	M
+getFaults	src/controllers/module.controller.js	/^  getFaults,$/;"	V
+getFaults	src/controllers/module.controller.js	/^const getFaults = catchAsync(async (req, res) => {$/;"	F
+getFaults	src/services/module.service.js	/^  getFaults,$/;"	V
+getFaults	src/services/module.service.js	/^const getFaults = async query => {$/;"	F
+getFaults	src/validations/module.validation.js	/^  getFaults,$/;"	V
+getFaults	src/validations/module.validation.js	/^const getFaults = {$/;"	O
+getInCallCounts	src/controllers/module.controller.js	/^  getInCallCounts,$/;"	V
+getInCallCounts	src/controllers/module.controller.js	/^const getInCallCounts = catchAsync(async (req, res) => {$/;"	F
+getInCallCounts	src/services/module.service.js	/^  getInCallCounts,$/;"	V
+getInCallCounts	src/services/module.service.js	/^const getInCallCounts = async query => {$/;"	F
+getInCallCounts	src/validations/module.validation.js	/^  getInCallCounts,$/;"	V
+getInCallCounts	src/validations/module.validation.js	/^const getInCallCounts = {$/;"	O
+getIpFormat	src/config/morgan.js	/^const getIpFormat = () => (config.env === 'production' ? ':remote-addr - ' : '');$/;"	F
+getMidnightDate	src/websockets/controllers/module.controller.js	/^  async getMidnightDate() {$/;"	M
+getModule	src/controllers/module.controller.js	/^  getModule,$/;"	V
+getModule	src/controllers/module.controller.js	/^const getModule = catchAsync(async (req, res) => {$/;"	F
+getModule	src/validations/module.validation.js	/^  getModule,$/;"	V
+getModule	src/validations/module.validation.js	/^const getModule = {$/;"	O
+getModuleById	src/services/module.service.js	/^  getModuleById,$/;"	V
+getModuleById	src/services/module.service.js	/^const getModuleById = async moduleId => {$/;"	F
+getModules	src/controllers/module.controller.js	/^  getModules,$/;"	V
+getModules	src/controllers/module.controller.js	/^const getModules = catchAsync(async (req, res) => {$/;"	F
+getModules	src/services/module.service.js	/^  getModules,$/;"	V
+getModules	src/services/module.service.js	/^const getModules = async query => {$/;"	F
+getModules	src/validations/module.validation.js	/^  getModules,$/;"	V
+getModules	src/validations/module.validation.js	/^const getModules = {$/;"	O
+getQueryOptions	src/services/complex.service.js	/^const { getQueryOptions } = require('..\/utils\/service.util');$/;"	V
+getQueryOptions	src/services/module.service.js	/^const { getQueryOptions } = require('..\/utils\/service.util');$/;"	V
+getQueryOptions	src/services/user.service.js	/^const { getQueryOptions } = require('..\/utils\/service.util');$/;"	V
+getQueryOptions	src/utils/service.util.js	/^  getQueryOptions,$/;"	V
+getQueryOptions	src/utils/service.util.js	/^const getQueryOptions = query => {$/;"	F
+getUser	src/controllers/user.controller.js	/^  getUser,$/;"	V
+getUser	src/controllers/user.controller.js	/^const getUser = catchAsync(async (req, res) => {$/;"	F
+getUser	src/validations/user.validation.js	/^  getUser,$/;"	V
+getUser	src/validations/user.validation.js	/^const getUser = {$/;"	O
+getUserByEmail	src/services/user.service.js	/^  getUserByEmail,$/;"	V
+getUserByEmail	src/services/user.service.js	/^const getUserByEmail = async email => {$/;"	F
+getUserById	src/services/user.service.js	/^  getUserById,$/;"	V
+getUserById	src/services/user.service.js	/^const getUserById = async userId => {$/;"	F
+getUserByUsername	src/services/user.service.js	/^  getUserByUsername,$/;"	V
+getUserByUsername	src/services/user.service.js	/^const getUserByUsername = async username => {$/;"	F
+getUsers	src/controllers/user.controller.js	/^  getUsers,$/;"	V
+getUsers	src/controllers/user.controller.js	/^const getUsers = catchAsync(async (req, res) => {$/;"	F
+getUsers	src/services/user.service.js	/^  getUsers,$/;"	V
+getUsers	src/services/user.service.js	/^const getUsers = async query => {$/;"	F
+getUsers	src/validations/user.validation.js	/^  getUsers,$/;"	V
+getUsers	src/validations/user.validation.js	/^const getUsers = {$/;"	O
+getWsModule	src/websockets/controllers/user.controller.js	/^  getWsModule() {$/;"	M
+handler	tests/utils/asyncWebsocketPatterns.js	/^    const handler = d => {$/;"	F
+hasRequiredRights	src/utils/authVerifyCallback.util.js	/^    const hasRequiredRights = requiredRights.every(requiredRight => {$/;"	F
+headers	tests/integration/auth.test.js	/^      headers: { Authorization: `Bearer ${adminAccessToken}` },$/;"	P
+id	tests/integration/userAndModuleWebsocket.test.js	/^                id: 3,$/;"	P
+id	tests/integration/userAndModuleWebsocket.test.js	/^              id: 0,$/;"	P
+id	tests/integration/userAndModuleWebsocket.test.js	/^              id: 3,$/;"	P
+inCallCountOne	tests/fixtures/inCallCount.fixture.js	/^  inCallCountOne,$/;"	V
+inCallCountOne	tests/fixtures/inCallCount.fixture.js	/^const inCallCountOne = {$/;"	O
+inCallCountOne	tests/integration/module.test.js	/^const { inCallCountOne, inCallCountTwo, insertInCallCounts } = require('..\/fixtures\/inCallCount.fixture');$/;"	V
+inCallCountTwo	tests/fixtures/inCallCount.fixture.js	/^  inCallCountTwo,$/;"	V
+inCallCountTwo	tests/fixtures/inCallCount.fixture.js	/^const inCallCountTwo = {$/;"	O
+inCallCountTwo	tests/integration/module.test.js	/^const { inCallCountOne, inCallCountTwo, insertInCallCounts } = require('..\/fixtures\/inCallCount.fixture');$/;"	V
+incall_count_per_elevator	src/websockets/controllers/module.controller.js	/^      incall_count_per_elevator: {},$/;"	P
+index	src/models/token.model.js	/^      index: true,$/;"	P
+info	src/docServer.js	/^    info: {$/;"	P
+insertComplexes	tests/fixtures/complex.fixture.js	/^  insertComplexes,$/;"	V
+insertComplexes	tests/fixtures/complex.fixture.js	/^const insertComplexes = async complexes => {$/;"	F
+insertComplexes	tests/integration/complex.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+insertComplexes	tests/integration/module.test.js	/^const { complexOne, complexTwo, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+insertComplexes	tests/integration/userAndModuleWebsocket.test.js	/^const { complexOne, insertComplexes } = require('..\/fixtures\/complex.fixture');$/;"	V
+insertDefaultUsers	src/config/insertDefaultDBRows.js	/^  insertDefaultUsers,$/;"	V
+insertDefaultUsers	src/config/insertDefaultDBRows.js	/^async function insertDefaultUsers() {$/;"	F
+insertDefaultUsers	src/index.js	/^const { insertDefaultUsers } = require('.\/config\/insertDefaultDBRows');$/;"	V
+insertElevators	tests/fixtures/elevator.fixture.js	/^  insertElevators,$/;"	V
+insertElevators	tests/fixtures/elevator.fixture.js	/^const insertElevators = async elevators => {$/;"	F
+insertElevators	tests/integration/module.test.js	/^const { elevatorOne, elevatorTwo, insertElevators } = require('..\/fixtures\/elevator.fixture');$/;"	V
+insertFaults	tests/fixtures/fault.fixture.js	/^  insertFaults,$/;"	V
+insertFaults	tests/fixtures/fault.fixture.js	/^const insertFaults = async faults => {$/;"	F
+insertFaults	tests/integration/module.test.js	/^const { faultOne, faultTwo, insertFaults } = require('..\/fixtures\/fault.fixture');$/;"	V
+insertInCallCounts	tests/fixtures/inCallCount.fixture.js	/^  insertInCallCounts,$/;"	V
+insertInCallCounts	tests/fixtures/inCallCount.fixture.js	/^const insertInCallCounts = async inCallCounts => {$/;"	F
+insertInCallCounts	tests/integration/module.test.js	/^const { inCallCountOne, inCallCountTwo, insertInCallCounts } = require('..\/fixtures\/inCallCount.fixture');$/;"	V
+insertModules	tests/fixtures/module.fixture.js	/^  insertModules,$/;"	V
+insertModules	tests/fixtures/module.fixture.js	/^const insertModules = async modules => {$/;"	F
+insertModules	tests/integration/module.test.js	/^const { moduleOne, moduleTwo, moduleThree, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+insertModules	tests/integration/userAndModuleWebsocket.test.js	/^const { sampleSettings, moduleOne, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+insertUsers	tests/fixtures/complex.fixture.js	/^const { userOne, userTwo, insertUsers } = require('.\/user.fixture');$/;"	V
+insertUsers	tests/fixtures/user.fixture.js	/^  insertUsers,$/;"	V
+insertUsers	tests/fixtures/user.fixture.js	/^const insertUsers = async users => {$/;"	F
+insertUsers	tests/integration/auth.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+insertUsers	tests/integration/complex.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+insertUsers	tests/integration/module.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+insertUsers	tests/integration/user.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+insertUsers	tests/integration/userAndModuleWebsocket.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+isSetup	src/models/module.model.js	/^    isSetup: {$/;"	P
+isSetup	tests/integration/module.test.js	/^        isSetup: false,$/;"	P
+jwt	src/config/config.js	/^  jwt: {$/;"	P
+jwtOptions	src/config/passport.js	/^const jwtOptions = {$/;"	O
+jwtStrategy	src/app.js	/^const { jwtStrategy } = require('.\/config\/passport');$/;"	V
+jwtStrategy	src/config/passport.js	/^  jwtStrategy,$/;"	V
+jwtStrategy	src/config/passport.js	/^const jwtStrategy = new JwtStrategy(jwtOptions, jwtVerify);$/;"	V
+jwtVerify	src/config/passport.js	/^const jwtVerify = async (payload, done) => {$/;"	F
+lanMacAddress	src/models/module.model.js	/^    lanMacAddress: {$/;"	P
+lastElevatorLiftStatus	src/websockets/controllers/module.controller.js	/^        lastElevatorLiftStatus: elevatorLiftStatus,$/;"	P
+lastElevatorLiftStatus	src/websockets/controllers/module.controller.js	/^    const { lastElevatorLiftStatus } = this.tmp.incall_count_per_elevator[elevatorId];$/;"	V
+lastElevatorsData	src/websockets/controllers/module.controller.js	/^    this.lastElevatorsData = { elevators: [] };$/;"	P
+lastSeenAt	src/models/module.model.js	/^    lastSeenAt: {$/;"	P
+lastSeenAt	tests/integration/module.test.js	/^        lastSeenAt: null,$/;"	P
+liftStatus	tests/integration/userAndModuleWebsocket.test.js	/^              liftStatus: 1,$/;"	P
+login	src/controllers/auth.controller.js	/^  login,$/;"	V
+login	src/controllers/auth.controller.js	/^const login = catchAsync(async (req, res) => {$/;"	F
+login	src/validations/auth.validation.js	/^  login,$/;"	V
+login	src/validations/auth.validation.js	/^const login = {$/;"	O
+loginCredentials	tests/integration/auth.test.js	/^      const loginCredentials = {$/;"	O
+loginUser	src/services/auth.service.js	/^  loginUser,$/;"	V
+loginUser	src/services/auth.service.js	/^const loginUser = async (username, password) => {$/;"	F
+lowercase	src/models/user.model.js	/^      lowercase: true,$/;"	P
+max	src/middlewares/rateLimiter.js	/^  max: 20,$/;"	P
+message	src/middlewares/error.js	/^    message,$/;"	V
+message	src/middlewares/error.js	/^  let { statusCode, message } = err;$/;"	V
+minlength	src/models/user.model.js	/^      minlength: 8,$/;"	P
+mode	tests/integration/userAndModuleWebsocket.test.js	/^                mode: 1,$/;"	P
+mode	tests/integration/userAndModuleWebsocket.test.js	/^              mode: 1,$/;"	P
+module	src/models/fault.model.js	/^    module: {$/;"	P
+module	src/models/inCallCount.model.js	/^    module: {$/;"	P
+module	src/websockets/controllers/user.controller.js	/^    this.module = {};$/;"	P
+moduleCode	src/websockets/controllers/user.controller.js	/^    const { moduleCode } = req.query;$/;"	V
+moduleController	src/routes/v1/module.route.js	/^const { moduleController } = require('..\/..\/controllers');$/;"	V
+moduleController	src/routes/v1/ws.route.js	/^const { userController, moduleController } = require('..\/..\/websockets\/controllers');$/;"	V
+moduleOne	tests/fixtures/module.fixture.js	/^  moduleOne,$/;"	V
+moduleOne	tests/fixtures/module.fixture.js	/^const moduleOne = {$/;"	O
+moduleOne	tests/integration/module.test.js	/^const { moduleOne, moduleTwo, moduleThree, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+moduleOne	tests/integration/userAndModuleWebsocket.test.js	/^const { sampleSettings, moduleOne, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+moduleOneWs	tests/integration/userAndModuleWebsocket.test.js	/^    let moduleOneWs;$/;"	V
+moduleService	src/controllers/module.controller.js	/^const { moduleService } = require('..\/services');$/;"	V
+moduleThree	tests/fixtures/fault.fixture.js	/^const { moduleThree } = require('.\/module.fixture');$/;"	V
+moduleThree	tests/fixtures/inCallCount.fixture.js	/^const { moduleThree } = require('.\/module.fixture');$/;"	V
+moduleThree	tests/fixtures/module.fixture.js	/^  moduleThree,$/;"	V
+moduleThree	tests/fixtures/module.fixture.js	/^const moduleThree = {$/;"	O
+moduleThree	tests/integration/module.test.js	/^const { moduleOne, moduleTwo, moduleThree, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+moduleTwo	tests/fixtures/module.fixture.js	/^  moduleTwo,$/;"	V
+moduleTwo	tests/fixtures/module.fixture.js	/^const moduleTwo = {$/;"	O
+moduleTwo	tests/integration/module.test.js	/^const { moduleOne, moduleTwo, moduleThree, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+moduleValidation	src/routes/v1/module.route.js	/^const { moduleValidation } = require('..\/..\/validations');$/;"	V
+modules	src/models/complex.model.js	/^    modules: [$/;"	P
+mongoose	src/config/config.js	/^  mongoose: {$/;"	P
+msg	src/services/email.service.js	/^  const msg = { from: config.email.from, to, subject, text };$/;"	O
+msg	src/websockets/controllers/user.controller.js	/^      const msg = {$/;"	O
+name	src/models/complex.model.js	/^    name: {$/;"	P
+name	src/models/user.model.js	/^    name: {$/;"	P
+newComplex	tests/integration/complex.test.js	/^    let newComplex;$/;"	V
+newModule	tests/integration/module.test.js	/^    let newModule;$/;"	V
+newUser	tests/integration/auth.test.js	/^    let newUser;$/;"	V
+newUser	tests/integration/user.test.js	/^    let newUser;$/;"	V
+nextRandomElevatorData	tests/simulators/module.client.js	/^function nextRandomElevatorData() {$/;"	F
+objectId	src/validations/complex.validation.js	/^const { objectId } = require('.\/custom.validation');$/;"	V
+objectId	src/validations/custom.validation.js	/^  objectId,$/;"	V
+objectId	src/validations/custom.validation.js	/^const objectId = (value, helpers) => {$/;"	F
+objectId	src/validations/module.validation.js	/^const { objectId } = require('.\/custom.validation');$/;"	V
+objectId	src/validations/user.validation.js	/^const { password, objectId } = require('.\/custom.validation');$/;"	V
+omit	src/models/user.model.js	/^const { omit, pick } = require('lodash');$/;"	V
+onA	src/websockets/controllers/module.controller.js	/^  async onA() {$/;"	M
+onA	src/websockets/controllers/user.controller.js	/^  async onA() {$/;"	M
+onBoardSettings	src/websockets/controllers/module.controller.js	/^  async onBoardSettings(settings) {$/;"	M
+onBoardSettingsSyncRequest	src/websockets/controllers/user.controller.js	/^  async onBoardSettingsSyncRequest(boardSettingsSyncRequest) {$/;"	M
+onElevatorsData	src/websockets/controllers/module.controller.js	/^  async onElevatorsData(elevators) {$/;"	M
+onGreet	src/websockets/controllers/module.controller.js	/^  async onGreet(code) {$/;"	M
+onMessage	src/websockets/controllers/module.controller.js	/^  async onMessage(msg) {$/;"	M
+onMessage	src/websockets/controllers/user.controller.js	/^  async onMessage(msg) {$/;"	M
+onNewConnection	src/routes/v1/ws.route.js	/^const { onNewConnection } = require('..\/..\/utils\/ws-connections-manager.util');$/;"	V
+onNewConnection	src/utils/ws-connections-manager.util.js	/^  onNewConnection,$/;"	V
+onNewConnection	src/utils/ws-connections-manager.util.js	/^const onNewConnection = (connectionsManagerInstance, ConnectionControllerClass) => async (ws, req) => {$/;"	F
+onOP	src/websockets/controllers/user.controller.js	/^  async onOP(op, msgJSON) {$/;"	M
+onPrioritySettings	src/websockets/controllers/module.controller.js	/^  async onPrioritySettings(settings) {$/;"	M
+onPrioritySettingsSyncRequest	src/websockets/controllers/user.controller.js	/^  async onPrioritySettingsSyncRequest(prioritySettingsSyncRequest) {$/;"	M
+onRegister	src/websockets/controllers/module.controller.js	/^  async onRegister(cpuId, wifiMac, ethMac) {$/;"	M
+onSSHBack	src/websockets/controllers/module.controller.js	/^  async onSSHBack(res) {$/;"	M
+onSSHConnectionRequest	src/websockets/controllers/user.controller.js	/^  async onSSHConnectionRequest(SSHConnectionRequest) {$/;"	M
+onSettings	src/websockets/controllers/module.controller.js	/^  async onSettings(settings) {$/;"	M
+onSettingsSyncRequest	src/websockets/controllers/user.controller.js	/^  async onSettingsSyncRequest(settingsSyncRequest) {$/;"	M
+onSettingsWriteResponse	src/websockets/controllers/module.controller.js	/^  async onSettingsWriteResponse() {$/;"	M
+onSetup	src/websockets/controllers/module.controller.js	/^  async onSetup(elevatorsCount) {$/;"	M
+optionDefinitions	tests/simulators/module.client.js	/^const optionDefinitions = [$/;"	A
+options	src/config/config.js	/^    options: { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true },$/;"	P
+options	src/docServer.js	/^  const options = {$/;"	O
+owner	src/models/complex.model.js	/^    owner: {$/;"	P
+owner	src/models/module.model.js	/^    owner: {$/;"	P
+params	tests/integration/auth.test.js	/^      params: { userId: userOne._id.toHexString() },$/;"	P
+password	src/models/user.model.js	/^    password: {$/;"	P
+password	src/validations/auth.validation.js	/^const { password } = require('.\/custom.validation');$/;"	V
+password	src/validations/custom.validation.js	/^  password,$/;"	V
+password	src/validations/custom.validation.js	/^const password = (value, helpers) => {$/;"	F
+password	src/validations/user.validation.js	/^const { password, objectId } = require('.\/custom.validation');$/;"	V
+password	tests/fixtures/user.fixture.js	/^  password,$/;"	V
+password	tests/fixtures/user.fixture.js	/^const password = 'password1';$/;"	V
+payload	src/services/token.service.js	/^  const payload = {$/;"	O
+phoneNumber	src/models/user.model.js	/^    phoneNumber: {$/;"	P
+pick	src/middlewares/validate.js	/^const { pick } = require('lodash');$/;"	V
+pick	src/models/user.model.js	/^const { omit, pick } = require('lodash');$/;"	V
+pick	src/services/complex.service.js	/^const { pick } = require('lodash');$/;"	V
+pick	src/services/module.service.js	/^const { pick } = require('lodash');$/;"	V
+pick	src/services/user.service.js	/^const { pick } = require('lodash');$/;"	V
+prioritySettings	tests/integration/userAndModuleWebsocket.test.js	/^      const prioritySettings = {$/;"	O
+programAccessPassword	src/models/user.model.js	/^    programAccessPassword: {$/;"	P
+r	src/utils/AutoFlag.util.js	/^function r() {$/;"	F
+refresh	src/services/auth.service.js	/^    refresh: {$/;"	P
+refresh	tests/integration/auth.test.js	/^        refresh: { token: expect.anything(), expires: expect.anything() },$/;"	P
+refreshAuthTokens	src/services/auth.service.js	/^  refreshAuthTokens,$/;"	V
+refreshAuthTokens	src/services/auth.service.js	/^const refreshAuthTokens = async refreshToken => {$/;"	F
+refreshTokens	src/controllers/auth.controller.js	/^  refreshTokens,$/;"	V
+refreshTokens	src/controllers/auth.controller.js	/^const refreshTokens = catchAsync(async (req, res) => {$/;"	F
+refreshTokens	src/validations/auth.validation.js	/^  refreshTokens,$/;"	V
+refreshTokens	src/validations/auth.validation.js	/^const refreshTokens = {$/;"	O
+register	src/controllers/auth.controller.js	/^  register,$/;"	V
+register	src/controllers/auth.controller.js	/^const register = catchAsync(async (req, res) => {$/;"	F
+register	src/validations/auth.validation.js	/^  register,$/;"	V
+register	src/validations/auth.validation.js	/^const register = {$/;"	O
+req	src/middlewares/wsAuth.js	/^      req,$/;"	V
+required	src/models/complex.model.js	/^      required: true,$/;"	P
+required	src/models/fault.model.js	/^      required: true,$/;"	P
+required	src/models/inCallCount.model.js	/^      required: true,$/;"	P
+required	src/models/module.model.js	/^      required: true,$/;"	P
+required	src/models/token.model.js	/^      required: true,$/;"	P
+required	src/models/user.model.js	/^      required: true,$/;"	P
+requiredRights	src/middlewares/wsAuth.js	/^      requiredRights$/;"	V
+resetPassword	src/controllers/auth.controller.js	/^  resetPassword,$/;"	V
+resetPassword	src/controllers/auth.controller.js	/^const resetPassword = catchAsync(async (req, res) => {$/;"	F
+resetPassword	src/services/auth.service.js	/^  resetPassword,$/;"	V
+resetPassword	src/services/auth.service.js	/^const resetPassword = async (resetPasswordToken, newPassword) => {$/;"	F
+resetPassword	src/validations/auth.validation.js	/^  resetPassword,$/;"	V
+resetPassword	src/validations/auth.validation.js	/^const resetPassword = {$/;"	O
+resetPasswordExpirationMinutes	src/config/config.js	/^    resetPasswordExpirationMinutes: 10,$/;"	P
+response	src/controllers/auth.controller.js	/^  const response = { user: user.transform(), tokens };$/;"	O
+response	src/controllers/user.controller.js	/^  const response = users.map(user => user.transform());$/;"	F
+response	src/middlewares/error.js	/^  const response = {$/;"	O
+restoreMocks	jest.config.js	/^  restoreMocks: true,$/;"	P
+role	src/models/user.model.js	/^    role: {$/;"	P
+roleRights	src/config/roles.js	/^  roleRights,$/;"	V
+roleRights	src/config/roles.js	/^const roleRights = new Map();$/;"	V
+roleRights	src/utils/authVerifyCallback.util.js	/^const { roleRights } = require('..\/config\/roles');$/;"	V
+roleRights	tests/integration/auth.test.js	/^const { roleRights } = require('..\/..\/src\/config\/roles');$/;"	V
+roleRights	tests/integration/userAndModuleWebsocket.test.js	/^const { roleRights } = require('..\/..\/src\/config\/roles');$/;"	V
+roles	src/config/roles.js	/^  roles,$/;"	V
+roles	src/config/roles.js	/^const roles = ['user', 'admin'];$/;"	A
+roles	src/models/user.model.js	/^const { roles } = require('..\/config\/roles');$/;"	V
+sampleSettings	tests/fixtures/module.fixture.js	/^  sampleSettings,$/;"	V
+sampleSettings	tests/fixtures/module.fixture.js	/^const sampleSettings = {$/;"	O
+sampleSettings	tests/integration/userAndModuleWebsocket.test.js	/^const { sampleSettings, moduleOne, insertModules } = require('..\/fixtures\/module.fixture');$/;"	V
+saveToken	src/services/token.service.js	/^  saveToken,$/;"	V
+saveToken	src/services/token.service.js	/^const saveToken = async (token, userId, expires, type, blacklisted = false) => {$/;"	F
+send	src/utils/ws-connections-manager.util.js	/^  connectionHandler.send = function(msg) {$/;"	M
+send	tests/simulators/module.client.js	/^function send(data) {$/;"	F
+sendDebugInfo	src/websockets/controllers/module.controller.js	/^  async sendDebugInfo() {$/;"	M
+sendEmail	src/services/email.service.js	/^  sendEmail,$/;"	V
+sendEmail	src/services/email.service.js	/^const sendEmail = async (to, subject, text) => {$/;"	F
+sendResetPasswordEmail	src/services/email.service.js	/^  sendResetPasswordEmail,$/;"	V
+sendResetPasswordEmail	src/services/email.service.js	/^const sendResetPasswordEmail = async (to, token) => {$/;"	F
+sendSSHConnectionResponse	src/websockets/controllers/user.controller.js	/^  async sendSSHConnectionResponse(response) {$/;"	M
+sendTo	src/utils/ws-connections-manager.util.js	/^    this.sendTo = (filter, msg) => {$/;"	M
+sendWriteSettingsResponse	src/websockets/controllers/user.controller.js	/^  async sendWriteSettingsResponse() {$/;"	M
+sentCount	src/websockets/controllers/user.controller.js	/^      const sentCount = moduleConnectionsManager.sendTo(module => module.code === this.module.code, msg);$/;"	F
+sentCount	src/websockets/controllers/user.controller.js	/^    const sentCount = moduleConnectionsManager.sendTo(module => module.code === this.module.code, {$/;"	F
+serialNumber	src/models/module.model.js	/^    serialNumber: {$/;"	P
+server	src/index.js	/^let server;$/;"	V
+setFalse	src/utils/AutoFlag.util.js	/^  setFalse() {$/;"	M
+setTrue	src/utils/AutoFlag.util.js	/^  setTrue(onTimeout, timeout) {$/;"	M
+setupTestDB	tests/utils/setupTestDB.js	/^const setupTestDB = () => {$/;"	F
+skip	src/config/morgan.js	/^  skip: (req, res) => res.statusCode < 400,$/;"	M
+skip	src/config/morgan.js	/^  skip: (req, res) => res.statusCode >= 400,$/;"	M
+skipSuccessfulRequests	src/middlewares/rateLimiter.js	/^  skipSuccessfulRequests: true,$/;"	P
+smtp	src/config/config.js	/^    smtp: {$/;"	P
+sort	src/utils/service.util.js	/^  const sort = {};$/;"	O
+statusCode	src/middlewares/error.js	/^  let { statusCode, message } = err;$/;"	V
+stderrLevels	src/config/logger.js	/^      stderrLevels: ['error', 'warn', 'info'],$/;"	P
+stream	src/config/morgan.js	/^  stream: { write: message => logger.error(message.trim()) },$/;"	P
+stream	src/config/morgan.js	/^  stream: { write: message => logger.info(message.trim()) },$/;"	P
+sub	src/services/token.service.js	/^    sub: userId,$/;"	P
+subject	src/services/email.service.js	/^  const subject = 'Reset password';$/;"	V
+successHandler	src/config/morgan.js	/^  successHandler,$/;"	V
+swaggerDefinition	src/docServer.js	/^    swaggerDefinition,$/;"	V
+swaggerDefinition	src/docServer.js	/^  const swaggerDefinition = {$/;"	O
+swaggerUiOptions	src/docServer.js	/^  const swaggerUiOptions = {$/;"	O
+systemType	src/models/elevator.model.js	/^    systemType: {$/;"	P
+systemType	src/websockets/controllers/module.controller.js	/^          systemType: st,$/;"	P
+systemType	tests/fixtures/elevator.fixture.js	/^  systemType: 1,$/;"	P
+systemType	tests/fixtures/elevator.fixture.js	/^  systemType: 2,$/;"	P
+t1	tests/integration/module.test.js	/^      const t1 = new Date();$/;"	V
+t2	tests/integration/module.test.js	/^      const t2 = new Date();$/;"	V
+t3	tests/integration/module.test.js	/^      const t3 = new Date();$/;"	V
+testEnvironmentOptions	jest.config.js	/^  testEnvironmentOptions: {$/;"	P
+timestamps	src/models/complex.model.js	/^    timestamps: true,$/;"	P
+timestamps	src/models/elevator.model.js	/^    timestamps: true,$/;"	P
+timestamps	src/models/fault.model.js	/^    timestamps: true,$/;"	P
+timestamps	src/models/inCallCount.model.js	/^    timestamps: false,$/;"	P
+timestamps	src/models/module.model.js	/^    timestamps: true,$/;"	P
+timestamps	src/models/token.model.js	/^    timestamps: true,$/;"	P
+timestamps	src/models/user.model.js	/^    timestamps: true,$/;"	P
+tmp	src/websockets/controllers/module.controller.js	/^    this.tmp = {$/;"	P
+tmp	src/websockets/controllers/user.controller.js	/^    this.tmp = {$/;"	P
+toJSON	src/models/complex.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/elevator.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/fault.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/inCallCount.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/module.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/token.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/user.model.js	/^    toJSON: { getters: true },$/;"	P
+toJSON	src/models/user.model.js	/^userSchema.methods.toJSON = function() {$/;"	M
+toJSON	src/utils/toJSON.util.js	/^  toJSON,$/;"	V
+toJSON	src/utils/toJSON.util.js	/^const toJSON = str => {$/;"	F
+toJSON	src/websockets/controllers/module.controller.js	/^const { toJSON } = require('..\/..\/utils\/toJSON.util');$/;"	V
+toJSON	src/websockets/controllers/user.controller.js	/^const { toJSON } = require('..\/..\/utils\/toJSON.util');$/;"	V
+toObject	src/models/complex.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/elevator.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/fault.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/inCallCount.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/module.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/token.model.js	/^    toObject: { getters: true },$/;"	P
+toObject	src/models/user.model.js	/^    toObject: { getters: true },$/;"	P
+token	src/models/token.model.js	/^    token: {$/;"	P
+token	src/services/auth.service.js	/^      token: accessToken,$/;"	P
+token	src/services/auth.service.js	/^      token: refreshToken,$/;"	P
+token	src/services/token.service.js	/^    token,$/;"	V
+tokenService	src/index.js	/^const { tokenService, userService } = require('.\/services');$/;"	V
+tokenService	src/middlewares/wsAuth.js	/^const { tokenService, userService } = require('..\/services');$/;"	V
+tokenService	tests/integration/auth.test.js	/^const { tokenService, emailService } = require('..\/..\/src\/services');$/;"	V
+tokenService	tests/integration/userAndModuleWebsocket.test.js	/^const { tokenService, emailService } = require('..\/..\/src\/services');$/;"	V
+transform	src/models/user.model.js	/^userSchema.methods.transform = function() {$/;"	M
+transport	src/services/email.service.js	/^  transport$/;"	V
+transport	src/services/email.service.js	/^  transport,$/;"	V
+transports	src/config/logger.js	/^  transports: [$/;"	P
+trim	src/models/complex.model.js	/^      trim: true,$/;"	P
+trim	src/models/module.model.js	/^      trim: true,$/;"	P
+trim	src/models/user.model.js	/^      trim: true,$/;"	P
+type	src/models/complex.model.js	/^      type: String,$/;"	P
+type	src/models/elevator.model.js	/^      type: Number,$/;"	P
+type	src/models/fault.model.js	/^      type: Number,$/;"	P
+type	src/models/inCallCount.model.js	/^      type: Date,$/;"	P
+type	src/models/inCallCount.model.js	/^      type: Number,$/;"	P
+type	src/models/module.model.js	/^        type: String,$/;"	P
+type	src/models/module.model.js	/^      type: Boolean,$/;"	P
+type	src/models/module.model.js	/^      type: Date,$/;"	P
+type	src/models/module.model.js	/^      type: String,$/;"	P
+type	src/models/token.model.js	/^      type: Boolean,$/;"	P
+type	src/models/token.model.js	/^      type: Date,$/;"	P
+type	src/models/token.model.js	/^      type: String,$/;"	P
+type	src/models/token.model.js	/^    type: {$/;"	P
+type	src/models/user.model.js	/^      type: Boolean,$/;"	P
+type	src/models/user.model.js	/^      type: String,$/;"	P
+type	src/services/token.service.js	/^    type,$/;"	V
+unexpectedErrorHandler	src/index.js	/^const unexpectedErrorHandler = error => {$/;"	F
+unique	src/models/module.model.js	/^      unique: true,$/;"	P
+unique	src/models/user.model.js	/^      unique: true,$/;"	P
+updateBody	tests/integration/complex.test.js	/^      const updateBody = { name: faker.name.findName() };$/;"	O
+updateBody	tests/integration/module.test.js	/^      const updateBody = { district: faker.commerce.department() };$/;"	O
+updateBody	tests/integration/module.test.js	/^      const updateBody = { name: faker.name.findName() };$/;"	O
+updateBody	tests/integration/user.test.js	/^      const updateBody = { email: 'invalidEmail' };$/;"	O
+updateBody	tests/integration/user.test.js	/^      const updateBody = { email: userTwo.email };$/;"	O
+updateBody	tests/integration/user.test.js	/^      const updateBody = { name: faker.name.findName() };$/;"	O
+updateBody	tests/integration/user.test.js	/^      const updateBody = { password: 'passwo1' };$/;"	O
+updateBody	tests/integration/user.test.js	/^      const updateBody = { password: 'password' };$/;"	O
+updateComplex	src/controllers/complex.controller.js	/^  updateComplex,$/;"	V
+updateComplex	src/controllers/complex.controller.js	/^const updateComplex = catchAsync(async (req, res) => {$/;"	F
+updateComplex	src/services/complex.service.js	/^  updateComplex,$/;"	V
+updateComplex	src/services/complex.service.js	/^const updateComplex = async (complexId, updateBody) => {$/;"	F
+updateComplex	src/validations/complex.validation.js	/^  updateComplex,$/;"	V
+updateComplex	src/validations/complex.validation.js	/^const updateComplex = {$/;"	O
+updateModule	src/controllers/module.controller.js	/^  updateModule,$/;"	V
+updateModule	src/controllers/module.controller.js	/^const updateModule = catchAsync(async (req, res) => {$/;"	F
+updateModule	src/services/module.service.js	/^  updateModule,$/;"	V
+updateModule	src/services/module.service.js	/^const updateModule = async (moduleId, updateBody) => {$/;"	F
+updateModule	src/validations/module.validation.js	/^  updateModule,$/;"	V
+updateModule	src/validations/module.validation.js	/^const updateModule = {$/;"	O
+updateUser	src/controllers/user.controller.js	/^  updateUser,$/;"	V
+updateUser	src/controllers/user.controller.js	/^const updateUser = catchAsync(async (req, res) => {$/;"	F
+updateUser	src/services/user.service.js	/^  updateUser,$/;"	V
+updateUser	src/services/user.service.js	/^const updateUser = async (userId, updateBody) => {$/;"	F
+updateUser	src/validations/user.validation.js	/^  updateUser,$/;"	V
+updateUser	src/validations/user.validation.js	/^const updateUser = {$/;"	O
+user	src/models/token.model.js	/^    user: {$/;"	P
+user	src/services/token.service.js	/^    user: userId,$/;"	P
+userController	src/routes/v1/user.route.js	/^const { userController } = require('..\/..\/controllers');$/;"	V
+userController	src/routes/v1/ws.route.js	/^const { userController, moduleController } = require('..\/..\/websockets\/controllers');$/;"	V
+userId	src/services/auth.service.js	/^  let userId;$/;"	V
+userOne	tests/fixtures/complex.fixture.js	/^const { userOne, userTwo, insertUsers } = require('.\/user.fixture');$/;"	V
+userOne	tests/fixtures/elevator.fixture.js	/^const { userOne, userTwo } = require('.\/user.fixture');$/;"	V
+userOne	tests/fixtures/module.fixture.js	/^const { userOne, userTwo, admin } = require('.\/user.fixture');$/;"	V
+userOne	tests/fixtures/token.fixture.js	/^const { userOne, admin } = require('.\/user.fixture');$/;"	V
+userOne	tests/fixtures/user.fixture.js	/^  userOne,$/;"	V
+userOne	tests/fixtures/user.fixture.js	/^const userOne = {$/;"	O
+userOne	tests/integration/auth.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userOne	tests/integration/complex.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userOne	tests/integration/module.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userOne	tests/integration/user.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userOne	tests/integration/userAndModuleWebsocket.test.js	/^const { userOne, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userOneAccessToken	tests/fixtures/token.fixture.js	/^  userOneAccessToken,$/;"	V
+userOneAccessToken	tests/integration/auth.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+userOneAccessToken	tests/integration/complex.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+userOneAccessToken	tests/integration/module.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+userOneAccessToken	tests/integration/user.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+userOneAccessToken	tests/integration/userAndModuleWebsocket.test.js	/^const { userOneAccessToken, adminAccessToken } = require('..\/fixtures\/token.fixture');$/;"	V
+userOneWs	tests/integration/userAndModuleWebsocket.test.js	/^    let userOneWs;$/;"	V
+userOneWs2	tests/integration/userAndModuleWebsocket.test.js	/^    let userOneWs2;$/;"	V
+userService	src/controllers/auth.controller.js	/^const { authService, userService, emailService } = require('..\/services');$/;"	V
+userService	src/controllers/user.controller.js	/^const { userService } = require('..\/services');$/;"	V
+userService	src/index.js	/^const { tokenService, userService } = require('.\/services');$/;"	V
+userService	src/middlewares/wsAuth.js	/^const { tokenService, userService } = require('..\/services');$/;"	V
+userTwo	tests/fixtures/complex.fixture.js	/^const { userOne, userTwo, insertUsers } = require('.\/user.fixture');$/;"	V
+userTwo	tests/fixtures/elevator.fixture.js	/^const { userOne, userTwo } = require('.\/user.fixture');$/;"	V
+userTwo	tests/fixtures/module.fixture.js	/^const { userOne, userTwo, admin } = require('.\/user.fixture');$/;"	V
+userTwo	tests/fixtures/user.fixture.js	/^  userTwo,$/;"	V
+userTwo	tests/fixtures/user.fixture.js	/^const userTwo = {$/;"	O
+userTwo	tests/integration/complex.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userTwo	tests/integration/module.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userTwo	tests/integration/user.test.js	/^const { userOne, userTwo, admin, insertUsers } = require('..\/fixtures\/user.fixture');$/;"	V
+userValidation	src/routes/v1/user.route.js	/^const { userValidation } = require('..\/..\/validations');$/;"	V
+username	src/models/user.model.js	/^    username: {$/;"	P
+users	src/websockets/controllers/module.controller.js	/^    const users = userConnectionsManager.find(user => {$/;"	F
+validate	src/middlewares/validate.js	/^const validate = schema => (req, res, next) => {$/;"	F
+validate	src/models/user.model.js	/^      validate(value) {$/;"	M
+value	src/config/config.js	/^const { value: envVars, error } = envVarsSchema.prefs({ errors: { label: 'key' } }).validate(process.env);$/;"	V
+value	src/middlewares/validate.js	/^  const { value, error } = Joi.compile(validSchema)$/;"	V
+valueOf	src/utils/AutoFlag.util.js	/^  valueOf() {$/;"	M
+verified	src/config/insertDefaultDBRows.js	/^      verified: true,$/;"	P
+verified	src/models/user.model.js	/^    verified: {$/;"	P
+verifyAccessToken	src/services/token.service.js	/^  verifyAccessToken,$/;"	V
+verifyAccessToken	src/services/token.service.js	/^const verifyAccessToken = async token => {$/;"	F
+verifyCallback	src/utils/authVerifyCallback.util.js	/^const verifyCallback = (req, resolve, reject, requiredRights) => async (err, user, info) => {$/;"	F
+verifyToken	src/services/token.service.js	/^  verifyToken,$/;"	V
+verifyToken	src/services/token.service.js	/^const verifyToken = async (token, type) => {$/;"	F
+waitForMessage	tests/integration/userAndModuleWebsocket.test.js	/^const { waitToClose, waitForMessage, waitToOpen, ask } = require('..\/utils\/asyncWebsocketPatterns');$/;"	V
+waitForMessage	tests/utils/asyncWebsocketPatterns.js	/^  waitForMessage,$/;"	V
+waitForMessage	tests/utils/asyncWebsocketPatterns.js	/^function waitForMessage(ws) {$/;"	F
+waitToClose	tests/integration/userAndModuleWebsocket.test.js	/^const { waitToClose, waitForMessage, waitToOpen, ask } = require('..\/utils\/asyncWebsocketPatterns');$/;"	V
+waitToClose	tests/utils/asyncWebsocketPatterns.js	/^  waitToClose,$/;"	V
+waitToClose	tests/utils/asyncWebsocketPatterns.js	/^function waitToClose(ws) {$/;"	F
+waitToOpen	tests/integration/userAndModuleWebsocket.test.js	/^const { waitToClose, waitForMessage, waitToOpen, ask } = require('..\/utils\/asyncWebsocketPatterns');$/;"	V
+waitToOpen	tests/utils/asyncWebsocketPatterns.js	/^  waitToOpen,$/;"	V
+waitToOpen	tests/utils/asyncWebsocketPatterns.js	/^function waitToOpen(ws) {$/;"	F
+wifiMacAddress	src/models/module.model.js	/^    wifiMacAddress: {$/;"	P
+ws	tests/integration/userAndModuleWebsocket.test.js	/^    let ws;$/;"	V
+ws	tests/simulators/module.client.js	/^const ws = new WebSocket('ws:\/\/localhost:3000\/EMS\/moduledatahandler');$/;"	V
+wsAuth	src/middlewares/wsAuth.js	/^const wsAuth = (...requiredRights) => async (ws, req, next) => {$/;"	F
+wsModuleConnectionsManager	src/routes/v1/ws.route.js	/^const { wsModuleConnectionsManager, wsUserConnectionsManager } = require('..\/..\/websockets\/connection-managers');$/;"	V
+wsModuleConnectionsManager	src/websockets/connection-managers/ws-module.connections.manager.js	/^const wsModuleConnectionsManager = new WebsocketConnectionsManager();$/;"	V
+wsUserConnectionsController	src/websockets/connection-managers/ws-user.connections.manager.js	/^const wsUserConnectionsController = new WebsocketConnectionsManager();$/;"	V
+wsUserConnectionsManager	src/routes/v1/ws.route.js	/^const { wsModuleConnectionsManager, wsUserConnectionsManager } = require('..\/..\/websockets\/connection-managers');$/;"	V

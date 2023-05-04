@@ -1,0 +1,1 @@
+module.exports.wsUserConnectionsManager = require('./ws-user.connections.manager');

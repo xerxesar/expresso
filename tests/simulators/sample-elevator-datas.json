@@ -1,0 +1,139 @@
+{
+  "simple": [
+    {
+      "elevators":[
+        {
+          "id":1,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"1",
+          "floor number":1,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":1286,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    },
+    {
+      "elevators":[
+        {
+          "id":2,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"G0",
+          "floor number":5,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":5,
+          "position":12865,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    },
+{
+      "elevators":[
+        {
+          "id":1,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"2",
+          "floor number":2,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":12865,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    },
+{
+      "elevators":[
+        {
+          "id":2,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"4",
+          "floor number":4,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":12865,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    },
+{
+      "elevators":[
+        {
+          "id":1,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"3",
+          "floor number":3,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":12865,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    },
+{
+      "elevators":[
+        {
+          "id":2,
+          "out call down":[17],
+          "in call count":170,
+          "fault":0,
+          "in call":[4],
+          "numerator":"3",
+          "floor number":3,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":12865,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    }
+  ],
+  "withFault": [
+    {
+      "elevators":[
+        {
+          "id":1,
+          "out call down":[17],
+          "in call count":170,
+          "fault":5,
+          "in call":[4],
+          "numerator":"1",
+          "floor number":1,
+          "mode":1,
+          "ErrorConnection":0,
+          "lift status":4,
+          "position":1286,
+          "direction":1,
+          "out call up":[]
+        }
+      ]
+    }
+  ]
+}
